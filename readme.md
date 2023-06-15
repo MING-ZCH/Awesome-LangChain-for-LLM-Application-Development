@@ -8,6 +8,7 @@
 ### 🏀课程
 
 DeepLearning.AI: [LangChain for LLM Application Development](https://learn.deeplearning.ai/langchain/lesson/1/introduction)
+
 （强推!!!）Youtube宝玉老师翻译视频：[《使用 LangChain 开发基于 LLM 的应用程序》](https://www.youtube.com/playlist?list=PLiuLMb-dLdWIYYBF3k5JI_6Od593EIuEG)
 
 ### ⭐目录
