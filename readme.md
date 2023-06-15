@@ -18,7 +18,7 @@
 
 ###  🌹参考
 
-DataWhale社区——吴恩达老师大模型开发系列课程中文系列
+DataWhale社区 —— 大模型开发系列课程中文系列
 
-Deeplearning.AI社区——吴恩达老师大模型开发系列课程
+DeepLearning.AI社区 —— 吴恩达老师大模型开发系列课程
 
